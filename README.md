@@ -1,2 +1,1 @@
-# cotton-disease-detection
- fyp bs ai 2020-2024
+Hi! My name is Syed Farhat Abbas
